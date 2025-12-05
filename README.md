@@ -55,3 +55,6 @@ Include animations and transitions
 Improve UI/UX design consistency
 
 Special thanks to my instructors and peers for guidance and feedback during the capstone project.
+
+# loom #
+loom-https://www.loom.com/share/93d066df66b345ffa6674409cee8c4c7
